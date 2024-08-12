@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "578653223752",
+    "firebase_url": "https://kongsikereta-443ce-default-rtdb.firebaseio.com",
+    "project_id": "kongsikereta-443ce",
+    "storage_bucket": "kongsikereta-443ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578653223752:android:b5454a54f9619dfd45517d",
+        "android_client_info": {
+          "package_name": "mobile.wsmb2024.C10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsrfbS48sw2gHkFpZDPVUJSewjJpYRqSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
